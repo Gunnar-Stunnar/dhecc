@@ -1,6 +1,9 @@
 # DHECC
 Diffie Hellman Elliptic Curve Key exchange automated Encrypting system using AES. This was a fun side project to get to play with encryption and practice Python.
 
+## Built With
+* [PyCrypto](https://pypi.python.org/pypi/pycrypto) - Used Encryption Library
+
 ## How To Use
 
 First add the Imports.
