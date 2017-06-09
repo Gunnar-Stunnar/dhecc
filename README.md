@@ -1,7 +1,7 @@
 # DHECC
 Diffie Hellman Elliptic Curve Key exchange automated Encrypting system using AES. This was a fun side project to get to play with encryption and practice Python.
 
-##How To Use
+## How To Use
 
 First add the Imports.
 ```
