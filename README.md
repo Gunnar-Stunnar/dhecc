@@ -60,6 +60,6 @@ print(part1.decrypt(ent2))
 ```
 ## Disclaimer 
 
-I am not fully done with this and will not be held responsible if their are any found vulnerability in it that are exsploited on your application. PLEASE, send me a message if you see any vulnerability
+I am not fully done with this and will not be held responsible if their are any found vulnerability in it that are exploited on your application. PLEASE, send me a message if you see any vulnerability
 
 THANK YOU
